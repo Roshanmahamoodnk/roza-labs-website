@@ -1,5 +1,7 @@
 # Roza Labs website
 
-Standalone public marketing website, hosted with GitHub Pages from the main branch root.
+Built from the original React marketing frontend. Includes original animation components and sign-in design.
 
-Edit the HTML pages and style.css to update the website. Contact links open the visitor's email app. No database, server, API keys or authentication are included.
+GitHub Pages hosts the frontend only. Authentication, account creation, private workspaces, live data, AI and chat are not connected. Sign-in inputs are disabled and no credentials are sent. Server-dependent routes show a connection notice. The private application and databases remain unchanged.
+
+Uses hash routing for GitHub Pages. Contact form opens email; it does not submit to a database.
